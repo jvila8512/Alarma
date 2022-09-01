@@ -12,7 +12,7 @@
 #define VELOCIDAD 100 // Velocidad a la que se mueve el texto
 // Ping ping = Ping(31);
 
-// debo buscra las bibliotecas
+// debo buscra las bibliotecas 3
 
 
 unsigned long startTime;
